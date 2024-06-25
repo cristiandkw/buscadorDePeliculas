@@ -1,0 +1,50 @@
+[
+
+
+    {
+        "title": "terminator",
+        "rating": 9,
+         "tags":["accion","cienciaFiccion"],
+         "año" : 1984
+    } ,
+    
+    {
+        "title": "elConjuro",
+        "rating": 8,
+         "tags":["Terror","suspenso"],
+         "año" : 2013
+    
+    },
+    
+    {
+        "title": "starWars",
+        "rating": 10,
+         "tags":["cienciaFiccion","accion"],
+         "año" : 1977
+    
+    },
+
+    {
+        "title" : "soyLeyenda",
+        "rating":9,
+        "tags": ["cienciaFiccion","accion","suspenso"],
+        "año" : 2007
+    },
+
+    {
+        "title" : "jurasiccPark",
+        "rating":10,
+        "tags": ["cienciaFiccion","suspenso", "Thriller"],
+        "año" : 1993
+    }
+
+    
+    
+
+
+
+]
+
+
+
+
